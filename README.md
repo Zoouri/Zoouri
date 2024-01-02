@@ -4,7 +4,7 @@
 - 🌱 I'm currently honing skills in Python, SQL, and data visualization.
 - 🚀 I'm passionate about transforming raw data into actionable insights.
 - 👩‍🍳 Fun fact: I'm a qualified chef! Ask me anything about food—I've got tips for days!
-- 🏋️‍♀️ During my free time, I enjoy working out and spending my time with family 👨‍👩‍👧‍👦✨
+- 🏋️‍♀️ During my free time, I enjoy working out and spending time with my family 👨‍👩‍👧‍👦✨
 - 💡📈 Let's connect and delve into the data-driven journey! 
 - #DataAnalytics #Python #SQL #DataViz
 
